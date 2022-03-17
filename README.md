@@ -7,6 +7,7 @@ I'm Ketki!
 - From 🇮🇳, currently located in 🇨🇦
 - 📮 Ask me about languages (human/computer), kdramas and kpop!
 — 🏷 Find me on [linkedin](https://ca.linkedin.com/in/ketki-panse)
+
 <!--
 **ksp2001/ksp2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
