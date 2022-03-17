@@ -2,7 +2,7 @@
 
 I'm Ketki!
 
-- 💻 I'm a [Dev Degree](https://devdegree.ca/) intern currently working as a Mobile Intern on [Shopify](https://www.shopify.ca/)'s [Shop Pay](https://shop.app/shop-pay) team.
+- 💻 I'm a [Dev Degree](https://devdegree.ca/) intern currently working as a Mobile Developer on [Shopify](https://www.shopify.ca/)'s [Shop Pay](https://shop.app/shop-pay) team.
 - 🌱 I'm a fourth year Computer Science Honours student at [Carleton University](https://carleton.ca/).
 - From 🇮🇳, currently located in 🇨🇦
 - 📮 Ask me about languages (human/computer), kdramas and kpop!
