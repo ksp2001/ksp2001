@@ -2,7 +2,7 @@
 
 I'm Ketki!
 
-- 💻 Developer at Shopify. Ex-[Dev Degree](https://devdegree.ca/) intern at [Shopify](https://www.shopify.ca/)
+- 💻 Developer. Ex-[Dev Degree](https://devdegree.ca/) intern, Ex-[Shopify](https://devdegree.ca/) mobile developer
 - 🌱 Graduated with Bachelor in Computer Science Honours from [Carleton University](https://carleton.ca/).
 - From 🇮🇳, currently located in 🇨🇦
 - 📮 Ask me about languages (human/computer) and kdramas!
