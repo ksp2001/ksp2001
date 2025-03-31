@@ -2,7 +2,7 @@
 
 I'm Ketki!
 
-- 💻 Developer. Current @ [Cardata](https://cardata.co/), Ex-[Dev Degree](https://devdegree.ca/) intern, Ex-[Shopify](https://devdegree.ca/) mobile developer
+- 💻 Developer. Current @ [Relay](https://relayfi.com/), Previously: [Cardata](https://cardata.co/) fullstack dev, [Dev Degree](https://devdegree.ca/) intern, [Shopify](https://devdegree.ca/) mobile developer
 - 🌱 Graduated with Bachelor in Computer Science Honours from [Carleton University](https://carleton.ca/).
 - From 🇮🇳, currently located in 🇨🇦
 - 📮 Ask me about languages (human/computer) and kdramas!
